@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-disablemacoscatalyst",
+  "version": "0.0.1",
+  "description": "Removes support for macos catalyst in ios project.",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coqsenpate/cordova-plugin-disablemacoscatalyst"
+  },
+  "license": "MIT"
+}
